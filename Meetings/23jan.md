@@ -1,5 +1,4 @@
-// functionality
-## functionality
+## points
 	-(Ay)Interatcions of teacher and students and boundaries(both)
 	-(Ay)Corners will be the seperations
 	-(gh-branch).. backup branch
